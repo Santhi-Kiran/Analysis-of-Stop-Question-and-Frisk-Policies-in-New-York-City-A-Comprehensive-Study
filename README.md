@@ -1,0 +1,2 @@
+# Analysis-of-Stop-Question-and-Frisk-Policies-in-New-York-City-A-Comprehensive-Study
+This project analyzes New York City's "stop, question, and frisk" policy using data from 2003 to 2019. It explores arrest, frisk, and search statistics by gender and race, performs ANOVA and linear regression analyses to predict arrests, and assesses the accuracy of logistic regression models to determine gender prediction from the data.
